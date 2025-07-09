@@ -1,6 +1,10 @@
 team: oz_back
 
+<<<<<<< HEAD
 leader: 병철
+=======
+leader: 연경
+>>>>>>> 7603556 (back팀 변경)
 
 member:
 - 은기
